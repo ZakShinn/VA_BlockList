@@ -129,8 +129,9 @@
 ||api.sec-tunnel.com^
 
 ! --- Adware / kiểm tra ---
-||e.0000o.xyz^
-||103.chtsite.com^
+||0000o.xyz^$important
+||chtsite.com^$important
+||tenchier.com^$important
 
 ! --- Cho phép NextDNS ---
 @@||217eaa.dns.nextdns.io^$important
