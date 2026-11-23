@@ -141,6 +141,5 @@
 
 ! --- Cho phép File Zalo ---
 @@||zadn.vn^$important
-! --- Cho phép nextdns ---
-@@||apple.dns.nextdns.io^$important
+
 
